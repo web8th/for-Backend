@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#canvas{
+background-color:black;
+width:100%;
+}
+
+#startButton{
+    background-color:red;
+    color:white;
+    font-size:30px;
+    width:15vw;
+    height:10vh;
+    margin:-1% 0 0 40%;
+    text-align:center;
+}
